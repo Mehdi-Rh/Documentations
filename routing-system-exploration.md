@@ -1,5 +1,7 @@
 # Routing System Analysis & Migration Strategy - [Your Application Name] Frontend
 
+**Note:** I've made this document while working at Lablabee, and here I removed everything specific to Lablabee and left a placeholder instead.
+
 ## Presentation Link
 
 For a visual summary, see the accompanying presentation:  
